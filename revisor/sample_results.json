@@ -1,0 +1,26 @@
+{
+  "query": "CRISPR cancer therapy",
+  "sources": ["arxiv", "pubmed"],
+  "mode": "summary",
+  "pipelineStatus": "completed",
+  "articles": [
+    {
+      "source": "pubmed",
+      "id": "99999999",
+      "title": "Novel CRISPR approach improves tumor targeting",
+      "authors": ["García F.", "López M."],
+      "published": "2026-06-10",
+      "summary": "Resumen de ejemplo: se presenta una nueva técnica CRISPR que mejora la selectividad en tumores sólidos.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/99999999/"
+    },
+    {
+      "source": "arxiv",
+      "id": "2607.01234",
+      "title": "Optimizing CAR-T with gene editing: preclinical results",
+      "authors": ["Zhang X.", "Nguyen T."],
+      "published": "2026-07-01",
+      "summary": "Resumen de ejemplo: estudio preclínico que muestra mejoras en persistencia y eficacia de CAR-T mediante edición genómica.",
+      "url": "https://arxiv.org/abs/2607.01234"
+    }
+  ]
+}
